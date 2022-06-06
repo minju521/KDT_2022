@@ -1,9 +1,9 @@
 # 따라하며 배우는 파이썬과 데이터 과학
-< 스터디 with Yelin >
+< Study with Yelin >
 <br/> 평일 오전 11시 단어시험 + 파이썬 내용 공유
 <br/>
 <br/>
-< 스터디 일정 >
+< Schedule >
 <br/> 2022.05.19.목 Chapter01
 <br/> 2022.05.20.금 Chapter01_심화문제
 <br/> 2022.05.23.월 Chapter02
@@ -22,18 +22,18 @@
 <br/> 2022.06.09.목 Chapter08_심화문제
 <br/> 2022.06.10.금 Chapter09
 <br/> 2022.06.13.월 Chapter09_심화문제
-<br/> 2022.06.10.금 Chapter10
-<br/> 2022.06.13.월 Chapter10_심화문제
-<br/> 2022.06.10.금 Chapter11
-<br/> 2022.06.13.월 Chapter11_심화문제
-<br/> 2022.06.10.금 Chapter12
-<br/> 2022.06.13.월 Chapter12_심화문제
-<br/> 2022.06.10.금 Chapter13
-<br/> 2022.06.13.월 Chapter13_심화문제
-<br/> 2022.06.10.금 Chapter14
-<br/> 2022.06.13.월 Chapter14_심화문제
-<br/> 2022.06.10.금 Chapter15
-<br/> 2022.06.13.월 Chapter15_심화문제
+<br/> 2022.06.14.화 Chapter10
+<br/> 2022.06.15.수 Chapter10_심화문제
+<br/> 2022.06.16.목 Chapter11
+<br/> 2022.06.17.금 Chapter11_심화문제
+<br/> 2022.06.20.월 Chapter12
+<br/> 2022.06.21.화 Chapter12_심화문제
+<br/> 2022.06.22.수 Chapter13
+<br/> 2022.06.23.목 Chapter13_심화문제
+<br/> 2022.06.24.금 Chapter14
+<br/> 2022.06.27.월 Chapter14_심화문제
+<br/> 2022.06.28.화 Chapter15
+<br/> 2022.06.29.수 Chapter15_심화문제
 
 
 
