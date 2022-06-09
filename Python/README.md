@@ -1,4 +1,4 @@
-# Python 공부하기
-< 업로드 순서 ><br/>
+# Python Study
+< Content ><br/>
 1. 파이썬과 데이터 과학<br/>
 2. 
