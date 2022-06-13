@@ -5,30 +5,8 @@
 <br/> 수정해야 할 파일 : 1, 2, 3, 4, 5, 6, 8심화, 9심화
 <br/>
 <br/>
-< Study with Yelin >
-<br/> 평일 오전 11시 단어시험 + 파이썬 내용 공유
-<br/>
 <br/>
 < Schedule >
-<br/> 2022.05.19.목 Chapter01
-<br/> 2022.05.20.금 Chapter01_심화문제
-<br/> 2022.05.23.월 Chapter02
-<br/> 2022.05.24.화 Chapter02_심화문제
-<br/> 2022.05.25.수 Chapter03
-<br/> 2022.05.26.목 Chapter03_심화문제
-<br/> 2022.05.27.금 Chapter04
-<br/> 2022.05.30.월 Chapter04_심화문제
-<br/> 2022.05.31.화 Chapter05
-<br/> 2022.06.01.수 Chapter05_심화문제
-<br/> 2022.06.02.목 Chapter06
-<br/> 2022.06.03.금 Chapter06_심화문제
-<br/> 2022.06.06.월 Chapter07
-<br/> 2022.06.07.화 Chapter07_심화문제
-<br/> 2022.06.08.수 Chapter08
-<br/> 2022.06.09.목 Chapter08_심화문제
-<br/> 2022.06.10.금 Chapter09
-<br/> 2022.06.13.월 Chapter09_심화문제
-<br/> 2022.06.14.화 Chapter10
 <br/> 2022.06.15.수 Chapter10_심화문제
 <br/> 2022.06.16.목 Chapter11
 <br/> 2022.06.17.금 Chapter11_심화문제
