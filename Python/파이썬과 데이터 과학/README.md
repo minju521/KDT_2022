@@ -5,7 +5,6 @@
 <br/>
 <br/>
 < Schedule >
-<br/> 2022.06.17.금 Chapter12
 <br/> 2022.06.20.월 Chapter12_심화문제
 <br/> 2022.06.21.화 Chapter13
 <br/> 2022.06.22.수 Chapter13_심화문제
