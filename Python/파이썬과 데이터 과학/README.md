@@ -5,8 +5,6 @@
 <br/> 포기 : 13, 13심화
 <br/>
 <br/> < Schedule >
-<br/> 2022.06.21.화 Chapter13
-<br/> 2022.06.22.수 Chapter13_심화문제
 <br/> 2022.06.23.목 Chapter14
 <br/> 2022.06.24.금 Chapter14_심화문제
 <br/> 2022.06.27.월 Chapter15
